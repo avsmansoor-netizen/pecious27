@@ -61,7 +61,8 @@
 
     <p>
         Good morning, my love! I woke up thinking of you, You are the reason my heart beats! You are the love of my life, 
-		and the one I want to be with every moment!!! I want to waking up every day next to you!!!
+		and the one I want to be with every moment!!! 
+					I want to waking up every day next to you!!!
     </p>
 
     <div class="footer">
