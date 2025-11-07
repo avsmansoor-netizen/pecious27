@@ -1,15 +1,14 @@
-
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to My Web App</title>
+    <title>GOOD MORNING MY LOVE</title>
     <style>
         body {
             margin: 0;
             padding: 0;
             font-family: "Segoe UI", Arial, sans-serif;
-            background: #f8f8f8;
+            background: #faf4f4;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -34,14 +33,14 @@
         h1 {
             margin-top: 30px;
             font-size: 36px;
-            color: #444;
+            color: #8b0000;
         }
 
         p {
             font-size: 20px;
-            color: #666;
+            color: #555;
             margin-top: 15px;
-            line-height: 1.5;
+            line-height: 1.6;
         }
 
         .footer {
@@ -54,20 +53,19 @@
 <body>
 
 <div class="container">
-    <img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?w=1200"
+    <img src="https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=1200"
          class="flower-img"
-         alt="Beautiful Flower">
+         alt="Red Rose">
 
-    <h1>Welcome to My Maven Web Application</h1>
+    <h1>GOOD MORNING MY LOVE</h1>
 
     <p>
-        This simple Java web application is blooming with possibilities.  
-        Just like this flower, your project is ready to grow into something amazing.  
-        Explore, create, and continue building elegant and powerful web applications!
+        Good morning, my love. I woke up thinking of you," "I love waking up every day next to you!
+		You are the reason my heart beats, the love of my life, and the one I want to be with every moment!!
     </p>
 
     <div class="footer">
-        &copy; 2025 My Java WebApp | Powered by JSP & Maven
+        &copy; 2025 Divya and Mansoor | Powered Our Love
     </div>
 </div>
 
