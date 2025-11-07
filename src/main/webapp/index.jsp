@@ -65,7 +65,7 @@
     </p>
 
     <div class="footer">
-        &copy; Forever Divya and Mansoor | Powered By Our Love
+        &copy; Forever Divya and Mansoor | This is Powered By Our Love
     </div>
 </div>
 
