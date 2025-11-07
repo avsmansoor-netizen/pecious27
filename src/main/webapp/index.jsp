@@ -60,8 +60,8 @@
     <h1>GOOD MORNING MY LOVE</h1>
 
     <p>
-        Good morning, my love. I woke up thinking of you," "I love waking up every day next to you!
-		You are the reason my heart beats, the love of my life, and the one I want to be with every moment!!
+        Good morning, my love! I woke up thinking of you, You are the reason my heart beats! You are the love of my life, 
+		and the one I want to be with every moment!!! I want to waking up every day next to you!!!
     </p>
 
     <div class="footer">
