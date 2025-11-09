@@ -118,7 +118,7 @@ function showSlides() {
 
     slides[index - 1].style.display = "block";  
 
-    setTimeout(showSlides, 10000); // 10 seconds per slide
+    setTimeout(showSlides, 10000); // 8 seconds per slide
 }
 </script>
 
