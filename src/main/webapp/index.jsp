@@ -9,42 +9,39 @@
             padding: 0;
             font-family: "Segoe UI", Arial, sans-serif;
             background: #faf4f4;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
         }
 
         .container {
-            width: 100%;
-            text-align: left;
+            width: 90%;
+            margin: 20px auto;
             background: #ffffff;
-            padding: 40px;
+            padding: 30px;
             border-radius: 20px;
             box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
         }
 
         .flower-img {
-            width: 20%;
+            width: 25%;
             border-radius: 15px;
             box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+            display: block;
+            margin-bottom: 20px;
         }
 
         h1 {
-            margin-top: 30px;
-            font-size: 36px;
+            font-size: 32px;
             color: #8b0000;
         }
 
         p {
-            font-size: 20px;
+            font-size: 18px;
             color: #555;
-            margin-top: 15px;
             line-height: 1.6;
         }
 
         .footer {
-            margin-top: 30px;
+            text-align: center;
+            margin: 40px 0;
             font-size: 14px;
             color: #999;
         }
@@ -52,84 +49,75 @@
 </head>
 <body>
 
+<!-- BLOCK 1 -->
 <div class="container">
-    <img src="images/1.jpg" 
-		alt="1" 
-		class="1-img">
-
+    <img src="images/1.jpg" class="flower-img" alt="Image 1">
     <h1>GOOD MORNING MY LOVE</h1>
-
     <p>
-        Hey Beautiful, I woke up thinking of you! You are the reason my heart beats!! You are the love of my life, 
-		and the one I want to be with every moment!!! 
-		<center><br>❤️ I want to wake up every day next to you ❤️</br</center><br></br>
+        Hey Beautiful, I woke up thinking of you! You are the reason my heart beats!!  
+        You are the love of my life, and the one I want to be with every moment!!! <br><br>
+        ❤️ I want to wake up every day next to you ❤️
     </p>
-	<div class="container">
-    <img src="images/2.jpg" 
-		alt="2" 
-		class="2-img">
+</div>
 
+<!-- BLOCK 2 -->
+<div class="container">
+    <img src="images/2.jpg" class="flower-img" alt="Image 2">
     <h1>GOOD MORNING MY LOVE</h1>
-
     <p>
-        Hey Beautiful, I woke up thinking of you! You are the reason my heart beats!! You are the love of my life, 
-		and the one I want to be with every moment!!! 
-		<center><br>❤️ I want to wake up every day next to you ❤️</br</center><br></br>
+        Just seeing your smile gives me strength.  
+        You are my happiness, my peace, my everything. <br><br>
+        ❤️ My heart beats only for you ❤️
     </p>
-	<div class="container">
-    <img src="images/3.jpg" 
-		alt="3" 
-		class="3-img">
+</div>
 
+<!-- BLOCK 3 -->
+<div class="container">
+    <img src="images/3.jpg" class="flower-img" alt="Image 3">
     <h1>GOOD MORNING MY LOVE</h1>
-
     <p>
-        Hey Beautiful, I woke up thinking of you! You are the reason my heart beats!! You are the love of my life, 
-		and the one I want to be with every moment!!! 
-		<center><br>❤️ I want to wake up every day next to you ❤️</br</center><br></br>
+        You make every morning brighter and every moment beautiful.  
+        I’m blessed to have you in my life. <br><br>
+        ❤️ You are my forever ❤️
     </p>
-	<div class="container">
-    <img src="images/4.jpg" 
-		alt="4" 
-		class="4-img">
+</div>
 
+<!-- BLOCK 4 -->
+<div class="container">
+    <img src="images/4.jpg" class="flower-img" alt="Image 4">
     <h1>GOOD MORNING MY LOVE</h1>
-
     <p>
-        Hey Beautiful, I woke up thinking of you! You are the reason my heart beats!! You are the love of my life, 
-		and the one I want to be with every moment!!! 
-		<center><br>❤️ I want to wake up every day next to you ❤️</br</center><br></br>
+        You are my sunshine, my comfort, my joy.  
+        Every day I fall more in love with you. <br><br>
+        ❤️ My heart belongs to you ❤️
     </p>
-	<div class="container">
-    <img src="images/5.jpg" 
-		alt="5" 
-		class="5-img">
+</div>
 
+<!-- BLOCK 5 -->
+<div class="container">
+    <img src="images/5.jpg" class="flower-img" alt="Image 5">
     <h1>GOOD MORNING MY LOVE</h1>
-
     <p>
-        Hey Beautiful, I woke up thinking of you! You are the reason my heart beats!! You are the love of my life, 
-		and the one I want to be with every moment!!! 
-		<center><br>❤️ I want to wake up every day next to you ❤️</br</center><br></br>
+        I cherish every moment with you.  
+        You are the dream I never want to wake up from. <br><br>
+        ❤️ You mean everything to me ❤️
     </p>
-	<div class="container">
-    <img src="images/6.jpg" 
-		alt="6" 
-		class="6-img">
+</div>
 
+<!-- BLOCK 6 -->
+<div class="container">
+    <img src="images/6.jpg" class="flower-img" alt="Image 6">
     <h1>GOOD MORNING MY LOVE</h1>
-
     <p>
-        Hey Beautiful, I woke up thinking of you! You are the reason my heart beats!! You are the love of my life, 
-		and the one I want to be with every moment!!! 
-		<center><br>❤️ I want to wake up every day next to you ❤️</br</center><br></br>
+        You are the most precious part of my life.  
+        I want to walk every step of life holding your hand. <br><br>
+        ❤️ Forever yours ❤️
     </p>
+</div>
 
-    <div class="footer">
-        &copy; Forever Divya and Mansoor | This is Powered By Our Love
-    </div>
+<div class="footer">
+    &copy; Forever Divya and Mansoor | Powered By Love ❤️
 </div>
 
 </body>
 </html>
-
