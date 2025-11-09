@@ -55,7 +55,67 @@
 <div class="container">
     <img src="images/1.jpg" 
 		alt="1" 
-		class="flower-img">
+		class="1-img">
+
+    <h1>GOOD MORNING MY LOVE</h1>
+
+    <p>
+        Hey Beautiful, I woke up thinking of you! You are the reason my heart beats!! You are the love of my life, 
+		and the one I want to be with every moment!!! 
+		<center><br>❤️ I want to wake up every day next to you ❤️</br</center>
+    </p>
+	<div class="container">
+    <img src="images/2.jpg" 
+		alt="2" 
+		class="2-img">
+
+    <h1>GOOD MORNING MY LOVE</h1>
+
+    <p>
+        Hey Beautiful, I woke up thinking of you! You are the reason my heart beats!! You are the love of my life, 
+		and the one I want to be with every moment!!! 
+		<center><br>❤️ I want to wake up every day next to you ❤️</br</center>
+    </p>
+	<div class="container">
+    <img src="images/3.jpg" 
+		alt="3" 
+		class="3-img">
+
+    <h1>GOOD MORNING MY LOVE</h1>
+
+    <p>
+        Hey Beautiful, I woke up thinking of you! You are the reason my heart beats!! You are the love of my life, 
+		and the one I want to be with every moment!!! 
+		<center><br>❤️ I want to wake up every day next to you ❤️</br</center>
+    </p>
+	<div class="container">
+    <img src="images/4.jpg" 
+		alt="4" 
+		class="4-img">
+
+    <h1>GOOD MORNING MY LOVE</h1>
+
+    <p>
+        Hey Beautiful, I woke up thinking of you! You are the reason my heart beats!! You are the love of my life, 
+		and the one I want to be with every moment!!! 
+		<center><br>❤️ I want to wake up every day next to you ❤️</br</center>
+    </p>
+	<div class="container">
+    <img src="images/5.jpg" 
+		alt="5" 
+		class="5-img">
+
+    <h1>GOOD MORNING MY LOVE</h1>
+
+    <p>
+        Hey Beautiful, I woke up thinking of you! You are the reason my heart beats!! You are the love of my life, 
+		and the one I want to be with every moment!!! 
+		<center><br>❤️ I want to wake up every day next to you ❤️</br</center>
+    </p>
+	<div class="container">
+    <img src="images/6.jpg" 
+		alt="6" 
+		class="6-img">
 
     <h1>GOOD MORNING MY LOVE</h1>
 
