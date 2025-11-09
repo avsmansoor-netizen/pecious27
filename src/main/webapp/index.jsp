@@ -16,8 +16,8 @@
         }
 
         .container {
-            width: 60%;
-            text-align: center;
+            width: 100%;
+            text-align: left;
             background: #ffffff;
             padding: 40px;
             border-radius: 20px;
@@ -25,7 +25,7 @@
         }
 
         .flower-img {
-            width: 60%;
+            width: 20%;
             border-radius: 15px;
             box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
         }
@@ -62,7 +62,7 @@
     <p>
         Hey Beautiful, I woke up thinking of you! You are the reason my heart beats!! You are the love of my life, 
 		and the one I want to be with every moment!!! 
-		<center><br>❤️ I want to wake up every day next to you ❤️</br</center>
+		<center><br>❤️ I want to wake up every day next to you ❤️</br</center><br></br>
     </p>
 	<div class="container">
     <img src="images/2.jpg" 
@@ -74,7 +74,7 @@
     <p>
         Hey Beautiful, I woke up thinking of you! You are the reason my heart beats!! You are the love of my life, 
 		and the one I want to be with every moment!!! 
-		<center><br>❤️ I want to wake up every day next to you ❤️</br</center>
+		<center><br>❤️ I want to wake up every day next to you ❤️</br</center><br></br>
     </p>
 	<div class="container">
     <img src="images/3.jpg" 
@@ -86,7 +86,7 @@
     <p>
         Hey Beautiful, I woke up thinking of you! You are the reason my heart beats!! You are the love of my life, 
 		and the one I want to be with every moment!!! 
-		<center><br>❤️ I want to wake up every day next to you ❤️</br</center>
+		<center><br>❤️ I want to wake up every day next to you ❤️</br</center><br></br>
     </p>
 	<div class="container">
     <img src="images/4.jpg" 
@@ -98,7 +98,7 @@
     <p>
         Hey Beautiful, I woke up thinking of you! You are the reason my heart beats!! You are the love of my life, 
 		and the one I want to be with every moment!!! 
-		<center><br>❤️ I want to wake up every day next to you ❤️</br</center>
+		<center><br>❤️ I want to wake up every day next to you ❤️</br</center><br></br>
     </p>
 	<div class="container">
     <img src="images/5.jpg" 
@@ -110,7 +110,7 @@
     <p>
         Hey Beautiful, I woke up thinking of you! You are the reason my heart beats!! You are the love of my life, 
 		and the one I want to be with every moment!!! 
-		<center><br>❤️ I want to wake up every day next to you ❤️</br</center>
+		<center><br>❤️ I want to wake up every day next to you ❤️</br</center><br></br>
     </p>
 	<div class="container">
     <img src="images/6.jpg" 
@@ -122,7 +122,7 @@
     <p>
         Hey Beautiful, I woke up thinking of you! You are the reason my heart beats!! You are the love of my life, 
 		and the one I want to be with every moment!!! 
-		<center><br>❤️ I want to wake up every day next to you ❤️</br</center>
+		<center><br>❤️ I want to wake up every day next to you ❤️</br</center><br></br>
     </p>
 
     <div class="footer">
