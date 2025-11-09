@@ -60,12 +60,13 @@
     <h1>GOOD MORNING MY LOVE</h1>
 
     <p>
-        Good morning, my love! I woke up thinking of you, You are the reason my heart beats! You are the love of my life, 
-		and the one I want to be with every moment!!! I want to waking up every day next to you!!!
+        Hey Beautiful, I woke up thinking of you! You are the reason my heart beats!! You are the love of my life, 
+		and the one I want to be with every moment!!! 
+		<center><br>❤️ I want to wake up every day next to you ❤️</br</center>
     </p>
 
     <div class="footer">
-        &copy; 2025 Divya and Mansoor | Powered By Our Love
+        &copy; Forever Divya and Mansoor | This is Powered By Our Love
     </div>
 </div>
 
