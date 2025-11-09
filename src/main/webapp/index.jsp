@@ -38,4 +38,89 @@
             font-size: 28px;
             color: white;
             font-weight: bold;
-            text-shadow: 2px 2px 10px #000
+            text-shadow: 2px 2px 10px #000;
+            padding: 10px;
+        }
+
+        .fade {
+            animation: fadeEffect 10s infinite;
+        }
+
+        @keyframes fadeEffect {
+            0%   { opacity: 0; }
+            10%  { opacity: 1; }
+            80%  { opacity: 1; }
+            100% { opacity: 0; }
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 15px;
+            color: #777;
+        }
+    </style>
+
+</head>
+<body>
+
+<div class="slideshow-container">
+
+    <div class="slide fade">
+        <img src="images/1.jpg">
+        <div class="text">You are the first thought of my morning ❤️</div>
+    </div>
+
+    <div class="slide fade">
+        <img src="images/2.jpg">
+        <div class="text">Every day feels special because of you ❤️</div>
+    </div>
+
+    <div class="slide fade">
+        <img src="images/3.jpg">
+        <div class="text">Your smile is my favorite sunrise 🌅</div>
+    </div>
+
+    <div class="slide fade">
+        <img src="images/4.jpg">
+        <div class="text">You make my heart bloom like a rose 🌹</div>
+    </div>
+
+    <div class="slide fade">
+        <img src="images/5.jpg">
+        <div class="text">My day starts and ends with your thoughts ❤️</div>
+    </div>
+
+    <div class="slide fade">
+        <img src="images/6.jpg">
+        <div class="text">I love you more than words can ever say 💕</div>
+    </div>
+
+</div>
+
+<div class="footer">
+    &copy; Forever Divya & Mansoor | Powered by Our Love ❤️
+</div>
+
+<script>
+let index = 0;
+showSlides();
+
+function showSlides() {
+    let slides = document.getElementsByClassName("slide");
+
+    for (let i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";  
+    }
+
+    index++;
+    if (index > slides.length) { index = 1 }
+
+    slides[index - 1].style.display = "block";  
+
+    setTimeout(showSlides, 10000); // 10 seconds per slide
+}
+</script>
+
+</body>
+</html>
