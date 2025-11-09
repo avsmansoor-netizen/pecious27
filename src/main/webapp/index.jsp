@@ -4,120 +4,86 @@
 <head>
     <title>GOOD MORNING MY LOVE</title>
     <style>
-        body {
-            margin: 0;
-            padding: 0;
-            font-family: "Segoe UI", Arial, sans-serif;
-            background: #faf4f4;
-        }
+        .slideshow-container {
+    width: 100%;
+    max-width: 900px;
+    margin: 40px auto 20px auto;
+    position: relative;
+}
 
-        .container {
-            width: 90%;
-            margin: 20px auto;
-            background: #ffffff;
-            padding: 30px;
-            border-radius: 20px;
-            box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
-        }
+.slide {
+    width: 100%;
+    border-radius: 20px;
+    position: absolute;
+    opacity: 0;
+    animation: fade 36s infinite;
+}
 
-        .flower-img {
-            width: 25%;
-            border-radius: 15px;
-            box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
-            display: block;
-            margin-bottom: 20px;
-        }
+.slide:nth-child(1) { animation-delay: 0s; }
+.slide:nth-child(2) { animation-delay: 6s; }
+.slide:nth-child(3) { animation-delay: 12s; }
+.slide:nth-child(4) { animation-delay: 18s; }
+.slide:nth-child(5) { animation-delay: 24s; }
+.slide:nth-child(6) { animation-delay: 30s; }
 
-        h1 {
-            font-size: 32px;
-            color: #8b0000;
-        }
+@keyframes fade {
+    0% { opacity: 0; }
+    5% { opacity: 1; }
+    25% { opacity: 1; }
+    30% { opacity: 0; }
+    100% { opacity: 0; }
+}
 
-        p {
-            font-size: 18px;
-            color: #555;
-            line-height: 1.6;
-        }
+.title {
+    text-align: center;
+    font-size: 40px;
+    color: #8b0000;
+    margin-top: 20px;
+}
 
-        .footer {
-            text-align: center;
-            margin: 40px 0;
-            font-size: 14px;
-            color: #999;
-        }
+.message {
+    text-align: center;
+    font-size: 20px;
+    color: #444;
+    width: 80%;
+    margin: 20px auto;
+    line-height: 1.6;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 14px;
+    color: #999;
+}
+
     </style>
 </head>
 <body>
 
-<!-- BLOCK 1 -->
-<div class="container">
-    <img src="images/1.jpg" class="flower-img" alt="Image 1">
-    <h1>GOOD MORNING MY LOVE</h1>
-    <p>
-        Hey Beautiful, I woke up thinking of you! You are the reason my heart beats!!  
-        You are the love of my life, and the one I want to be with every moment!!! <br><br>
-        ❤️ I want to wake up every day next to you ❤️
-    </p>
+<div class="slideshow-container">
+
+    <img class="slide" src="images/1.jpg">
+    <img class="slide" src="images/2.jpg">
+    <img class="slide" src="images/3.jpg">
+    <img class="slide" src="images/4.jpg">
+    <img class="slide" src="images/5.jpg">
+    <img class="slide" src="images/6.jpg">
+
 </div>
 
-<!-- BLOCK 2 -->
-<div class="container">
-    <img src="images/2.jpg" class="flower-img" alt="Image 2">
-    <h1>GOOD MORNING MY LOVE</h1>
-    <p>
-        Just seeing your smile gives me strength.  
-        You are my happiness, my peace, my everything. <br><br>
-        ❤️ My heart beats only for you ❤️
-    </p>
-</div>
+<h1 class="title">GOOD MORNING MY LOVE ❤️</h1>
 
-<!-- BLOCK 3 -->
-<div class="container">
-    <img src="images/3.jpg" class="flower-img" alt="Image 3">
-    <h1>GOOD MORNING MY LOVE</h1>
-    <p>
-        You make every morning brighter and every moment beautiful.  
-        I’m blessed to have you in my life. <br><br>
-        ❤️ You are my forever ❤️
-    </p>
-</div>
-
-<!-- BLOCK 4 -->
-<div class="container">
-    <img src="images/4.jpg" class="flower-img" alt="Image 4">
-    <h1>GOOD MORNING MY LOVE</h1>
-    <p>
-        You are my sunshine, my comfort, my joy.  
-        Every day I fall more in love with you. <br><br>
-        ❤️ My heart belongs to you ❤️
-    </p>
-</div>
-
-<!-- BLOCK 5 -->
-<div class="container">
-    <img src="images/5.jpg" class="flower-img" alt="Image 5">
-    <h1>GOOD MORNING MY LOVE</h1>
-    <p>
-        I cherish every moment with you.  
-        You are the dream I never want to wake up from. <br><br>
-        ❤️ You mean everything to me ❤️
-    </p>
-</div>
-
-<!-- BLOCK 6 -->
-<div class="container">
-    <img src="images/6.jpg" class="flower-img" alt="Image 6">
-    <h1>GOOD MORNING MY LOVE</h1>
-    <p>
-        You are the most precious part of my life.  
-        I want to walk every step of life holding your hand. <br><br>
-        ❤️ Forever yours ❤️
-    </p>
-</div>
+<p class="message">
+    Every moment with you is beautiful… just like these memories.  
+    You are my peace, my smile, my everything.  
+    ❤️ I want to wake up every day next to you ❤️
+</p>
 
 <div class="footer">
-    &copy; Forever Divya and Mansoor | Powered By Love ❤️
+    &copy; Forever Divya and Mansoor | Powered By Our Love ❤️
 </div>
 
 </body>
+
 </html>
