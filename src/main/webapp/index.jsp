@@ -93,7 +93,7 @@
 	
 	<div class="slide fade">
         <img src="images/6.jpg">
-        <div class="text">❤️ 🔥 If kisses were candles, your cake would be on fire by now.🔥 ❤️</div>
+        <div class="text">❤️ If kisses were candles, your cake would be on fire by now.🔥🔥</div>
     </div>
 
     <div class="slide fade">
@@ -125,7 +125,7 @@ function showSlides() {
 
     slides[index - 1].style.display = "block";  
 
-    setTimeout(showSlides, 10000); // 8 seconds per slide
+    setTimeout(showSlides, 10000); // 9 seconds per slide
 }
 </script>
 
