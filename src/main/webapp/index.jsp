@@ -68,17 +68,17 @@
 
     <div class="slide fade">
         <img src="images/1.jpg">
-        <div class="text">You are the first thought of my morning ❤️</div>
+        <div class="text">❤️ Happy Birthday to the love of my life - every moment with you feels like a beautiful dream I never want to wake up from. ❤️</div>
     </div>
 
     <div class="slide fade">
         <img src="images/2.jpg">
-        <div class="text">Every day feels special because of you ❤️</div>
+        <div class="text">❤️ Falling in love with you was the best thing that ever happened to me in my life ❤️</div>
     </div>
 
     <div class="slide fade">
         <img src="images/3.jpg">
-        <div class="text">Your smile is my favorite sunrise 🌅</div>
+        <div class="text">Your smile is my favorite sunrise and always will be..🌅</div>
     </div>
 
     <div class="slide fade">
@@ -90,11 +90,18 @@
         <img src="images/5.jpg">
         <div class="text">My day starts and ends with your thoughts ❤️</div>
     </div>
+	
+	<div class="slide fade">
+        <img src="images/6.jpg">
+        <div class="text">❤️ 🔥 If kisses were candles, your cake would be on fire by now.🔥 ❤️</div>
+    </div>
 
     <div class="slide fade">
-        <img src="images/6.jpg">
-        <div class="text">I love you more than words can ever say 💕</div>
+        <img src="images/7.jpg">
+        <div class="text"> 💕 I love you more than words can ever say 💕</div>
     </div>
+	
+	
 
 </div>
 
