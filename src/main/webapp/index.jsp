@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>HappY BirthdaY MY LOVE</title>
+    <title>HappY BirthdaY MY LOVE 🌹</title>
 
     <style>
         body {
@@ -69,7 +69,7 @@
     <div class="slide fade">
         <img src="images/1.jpg">
         <div class="text">❤️ Happy Birthday to the love of my life ❤️
-					<br>every moment with you feels like a beautiful dream I never want to wake up from. </br></div>
+					<br>Every moment with you feels like a beautiful dream I never want to wake up from. </br></div>
     </div>
 
     <div class="slide fade">
@@ -94,7 +94,7 @@
 	
 	<div class="slide fade">
         <img src="images/6.jpg">
-        <div class="text">❤️ If kisses were candles, your cake would be on fire by now.🔥🔥</div>
+        <div class="text"> If kisses 💋💋 were candles, your cake would be on fire by now.🔥🔥</div>
     </div>
 
     <div class="slide fade">
