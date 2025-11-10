@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>GOOD MORNING MY LOVE</title>
+    <title>HappY BirthdaY MY LOVE</title>
 
     <style>
         body {
@@ -68,7 +68,8 @@
 
     <div class="slide fade">
         <img src="images/1.jpg">
-        <div class="text">❤️ Happy Birthday to the love of my life - every moment with you feels like a beautiful dream I never want to wake up from. ❤️</div>
+        <div class="text">❤️ Happy Birthday to the love of my life ❤️
+					<br>every moment with you feels like a beautiful dream I never want to wake up from. </br></div>
     </div>
 
     <div class="slide fade">
